@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 29 16:29:24 IST 2016
+http\://mvndev.ground.fedex.com\:9999/m2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.3.3.RELEASE from/to mvnproxy (http\://mvndev.ground.fedex.com\:9999/m2)\: connect timed out
+@internet.ground.fedex.com\:80>@default-mvnown-http\://maven.ground.fedex.com/m2/.lastUpdated=1464397686386
+@internet.ground.fedex.com\:80>@default-mvnproxy-http\://mvndev.ground.fedex.com\:9999/m2/.lastUpdated=1464397696396
+http\://fwkmaven.ute.fedex.com\:8081/nexus/content/repositories/devframeworkrepo/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.3.3.RELEASE from/to devframeworkrepo (http\://fwkmaven.ute.fedex.com\:8081/nexus/content/repositories/devframeworkrepo)\: connect timed out
+http\://maven.ground.fedex.com/m2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.3.3.RELEASE from/to mvnown (http\://maven.ground.fedex.com/m2)\: connect timed out
+@internet.ground.fedex.com\:80>efb36be43fadd4bb4ea66f9f62b0805ae3a06343@default-devframeworkrepo-http\://fwkmaven.ute.fedex.com\:8081/nexus/content/repositories/devframeworkrepo/.lastUpdated=1464397706411
+http\://mvndev.ground.fedex.com/m2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.3.3.RELEASE from/to mvndev (http\://mvndev.ground.fedex.com/m2)\: connect timed out
+http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/internal/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.3.3.RELEASE from/to internal (http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/internal)\: connect timed out
+@internet.ground.fedex.com\:80>2467c6aab36450be58c6d71565f15ef5c005901f@default-release-http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/release/.lastUpdated=1464397666358
+@internet.ground.fedex.com\:80>@default-internal-http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/internal/.lastUpdated=1464397676373
+http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/release/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.3.3.RELEASE from/to release (http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/release)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1467197964702
+@internet.ground.fedex.com\:80>@default-mvndev-http\://mvndev.ground.fedex.com/m2/.lastUpdated=1464397716423

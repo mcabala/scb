@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 29 10:02:38 IST 2016
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-pmd-plugin\:pom\:2.7.1 from/to repo1 (http\://repo1.maven.org/maven2)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1467174758530
+@internet.ground.fedex.com\:80>@default-repo1-http\://repo1.maven.org/maven2/.lastUpdated=1462282480954
+@internet.ground.fedex.com\:80>@default-maven-http\://maven.ground.fedex.com/m2/.lastUpdated=1462282490971
+http\://maven.ground.fedex.com/m2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-pmd-plugin\:pom\:2.7.1 from/to maven (http\://maven.ground.fedex.com/m2)\: connect timed out

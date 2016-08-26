@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 29 10:02:33 IST 2016
+http\://mvndev.ground.fedex.com\:9999/m2/.error=Could not transfer artifact asm\:asm\:jar\:3.0 from/to mvnproxy (http\://mvndev.ground.fedex.com\:9999/m2)\: The operation was cancelled.
+@internet.ground.fedex.com\:80>@default-mvnown-http\://maven.ground.fedex.com/m2/.lastUpdated=1462282428565
+@internet.ground.fedex.com\:80>@default-mvnproxy-http\://mvndev.ground.fedex.com\:9999/m2/.lastUpdated=1462282428880
+http\://fwkmaven.ute.fedex.com\:8081/nexus/content/repositories/devframeworkrepo/.error=Could not transfer artifact asm\:asm\:jar\:3.0 from/to devframeworkrepo (http\://fwkmaven.ute.fedex.com\:8081/nexus/content/repositories/devframeworkrepo)\: The operation was cancelled.
+http\://maven.ground.fedex.com/m2/.error=Could not transfer artifact asm\:asm\:jar\:3.0 from/to mvnown (http\://maven.ground.fedex.com/m2)\: The operation was cancelled.
+@internet.ground.fedex.com\:80>efb36be43fadd4bb4ea66f9f62b0805ae3a06343@default-devframeworkrepo-http\://fwkmaven.ute.fedex.com\:8081/nexus/content/repositories/devframeworkrepo/.lastUpdated=1462282429176
+http\://mvndev.ground.fedex.com/m2/.error=Could not transfer artifact asm\:asm\:jar\:3.0 from/to mvndev (http\://mvndev.ground.fedex.com/m2)\: The operation was cancelled.
+http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/internal/.error=Could not transfer artifact asm\:asm\:jar\:3.0 from/to internal (http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/internal)\: The operation was cancelled.
+@internet.ground.fedex.com\:80>2467c6aab36450be58c6d71565f15ef5c005901f@default-release-http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/release/.lastUpdated=1462282427801
+@internet.ground.fedex.com\:80>@default-internal-http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/internal/.lastUpdated=1462282428228
+http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/release/.error=Could not transfer artifact asm\:asm\:jar\:3.0 from/to release (http\://eprsarchiva.ute.fedex.com\:8081/archiva/repository/release)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1467174753030
+@internet.ground.fedex.com\:80>@default-mvndev-http\://mvndev.ground.fedex.com/m2/.lastUpdated=1462282429526
